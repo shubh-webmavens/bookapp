@@ -1,7 +1,5 @@
 # Team Members
-Krutarth Pandya (Leader)
-Jiya Jain
-Dhruv Saraswat
+Shubh Patel
 
 
 # Book Recommendation System
@@ -10,7 +8,7 @@ Try this recommendation system: https://bookapp-rdkytvekxe5rz6k22iosfk.streamlit
 
 # Introduction
 This Project is a submission for the final assessment of SAP course .   
-You can download the data from this [Github repository] (https://github.com/Kp1610/bookapp)
+You can download the data from this [Github repository] (https://github.com/shubh-webmavens/bookapp)
 
 # Objective
 The main objective of this project is to develop book recommendation systems by several methods and explore the strengths and weaknesses of each method. 
